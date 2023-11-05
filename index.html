@@ -13,27 +13,25 @@
     />
     <link rel="stylesheet" href="style.css" />
     <title>Frontend Mentor | Advice generator app</title>
-
-    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-    <style>
-      .attribution {
-        font-size: 11px;
-        text-align: center;
-      }
-      .attribution a {
-        color: hsl(228, 45%, 44%);
-      }
-    </style>
   </head>
   <body>
-    Advice #<!-- Advice ID goes here -->
-
-    "<!-- Advice text goes here -->"
-
-    <span id="adviceId"></span>
-    <span id="advice"></span>
-
-    <img src="./images/pattern-divider-desktop.svg" />
+    <div class="container">
+      <div class="card">
+        <p class="adviceId">
+          Advice #<span class="adviceId" id="adviceId">148</span>
+        </p>
+        <p>
+          "<span id="advice"
+            >Some people would be better off if they took their own
+            advice.</span
+          >"
+        </p>
+        <div>
+          <img src="./images/pattern-divider-desktop.svg" alt="devider" />
+        </div>
+        <button><img src="./images/icon-dice.svg" alt="dice" /></button>
+      </div>
+    </div>
     <script src="app.js"></script>
   </body>
 </html>
