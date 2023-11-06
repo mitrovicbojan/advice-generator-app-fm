@@ -14,12 +14,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot.png)
+![](https://github.com/mitrovicbojan/advice-generator-app-fm/blob/master/images/Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/advice-generator-app-solution-unBUlhrlgA)
+- Live Site URL: [Add live site URL here](https://advice-gen-fm.netlify.app/)
 
 ## My process
 
